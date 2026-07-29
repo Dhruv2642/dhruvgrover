@@ -37,6 +37,3 @@ Personal portfolio website.
 
  💼 LinkedIn: https://www.linkedin.com/in/dhruv-grover-4a15b8329/
  📧 Email: dhruvgrover24@gmail.com
-LinkedIn
-
-Email
